@@ -14,7 +14,8 @@ Changes are categorized as follows:
 
 ## YYYY-MM-DD, Version 0.1.0
 
-* 2 minor enhancements:
+* 3 minor enhancements:
 
   * Initialized project
   * Add LICENSE.txt file
+  * Add details to the README.md file

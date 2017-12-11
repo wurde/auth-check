@@ -1,0 +1,24 @@
+{
+  "name": "auth-check",
+  "version": "0.1.0",
+  "description": "Authentication check for Express apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --no-colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wurde/auth-check.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "auth"
+  ],
+  "author": "Andy Bettisworth <andy@accreu.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wurde/auth-check/issues"
+  },
+  "homepage": "https://github.com/wurde/auth-check#readme"
+}

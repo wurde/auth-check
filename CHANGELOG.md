@@ -12,6 +12,10 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
+* 1 major enhancement:
+
+  * Add default auth check for admin
+
 ## 2017-12-11, Version 0.1.0
 
 * 3 minor enhancements:

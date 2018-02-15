@@ -12,6 +12,12 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
+## 2018-02-14, Version 1.1.0
+
+* 1 minor enhancement:
+
+  * remove skip for test environments
+
 ## 2017-12-11, Version 1.0.0
 
 * 1 major enhancement:

@@ -10,6 +10,8 @@ Add the package to your project using the npm ecosystem:
 $ npm install auth-check --save
 ```
 
+Partial example integration within an Express app:
+
 ```javascript
 // ...
 

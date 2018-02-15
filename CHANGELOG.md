@@ -14,9 +14,10 @@ Changes are categorized as follows:
 
 ## 2018-02-14, Version 1.1.0
 
-* 1 minor enhancement:
+* 2 minor enhancements:
 
   * remove skip for test environments
+  * default is users not admin
 
 ## 2017-12-11, Version 1.0.0
 

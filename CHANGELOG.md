@@ -12,6 +12,12 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
+## 2018-04-06, Version 1.3.0
+
+* 1 minor enhancement:
+
+  * remove defaults for role and redirect_uri
+
 ## 2018-04-06, Version 1.2.0
 
 * 1 minor enhancement:

@@ -9,7 +9,7 @@ module.exports = (options) => {
   let redirect = (options.redirect || '/users/login')
 
   /**
-   * Export auth check middleware.
+   * Export middleware.
    */
 
   return (req, res, next) => {

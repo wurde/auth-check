@@ -12,6 +12,8 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
+## 2018-04-06, Version 1.2.0
+
 * 1 minor enhancement:
 
   * remove is_role dependency

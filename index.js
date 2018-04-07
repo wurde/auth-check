@@ -13,7 +13,10 @@ module.exports = (options) => {
    */
 
   return (req, res, next) => {
-    if (req.isAuthenticated() && req.app.locals.is_role(req.user, role)) { return next(); }
-    res.redirect(redirect)
+    if (req.isAuthenticated() && req.app.locals.is_role(req.user, role)) {
+      next()
+    } else {
+      res.redirect(redirect)
+    }
   }
 }
